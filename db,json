@@ -1,0 +1,6 @@
+{
+  "notifications" : [
+    {"unitId" : 1, "problem" : 1},
+    {"unitId" : 2, "problem" : 0}
+  ]
+}
