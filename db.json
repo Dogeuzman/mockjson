@@ -9,6 +9,6 @@
     {"notifId": 7, "unitId" : 7, "problem" : 1},
     {"notifId": 8, "unitId" : 8, "problem" : 0},
     {"notifId": 9, "unitId" : 9, "problem" : 1},
-    {"notifId": 10, "unitId" : 10, "problem" : 1}
+    {"notifId": 10, "unitId" : 10, "problem" : 0}
   ]
 }
